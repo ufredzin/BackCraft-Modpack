@@ -1,9 +1,13 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minecraft": "26.3",
   "loader": "fabric",
   "loaderVersion": "0.19.5",
-  "mods": [],
+  "mods": [
+    {
+      "id": "sodium"
+    }
+  ],
   "config": [],
   "resourcepacks": []
 }
